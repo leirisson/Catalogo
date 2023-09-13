@@ -1,0 +1,18 @@
+@import url("./reset.css");
+
+:root{
+    --cor-principal: rgb(245,151,148);
+    --cor-azul: hsl(215,90%,32.7%);
+    --azul-escuro:#172B4D;
+    --branco:#fff;
+
+    --font: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Noto Sans,Ubuntu,Droid Sans,Helvetica Neue,sans-serif;
+
+
+}
+
+body{
+    background-color: var(--azul-escuro);
+    color: var(--branco);
+    font-family: var(--font);
+}
