@@ -9,7 +9,9 @@ return(
         </div>
 
         <h1>Antônio barbearia</h1>
-
+        <div>
+            <img src="bigode.png"/>
+        </div>
     </header>
 )
 
