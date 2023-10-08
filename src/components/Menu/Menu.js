@@ -10,7 +10,7 @@ return(
 
         <h1>Antônio barbearia</h1>
         <div>
-            <img src="bigode.png"/>
+            <img src="bigode.png" alt="incone de bigode"/>
         </div>
     </header>
 )
