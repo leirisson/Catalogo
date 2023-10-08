@@ -1,0 +1,26 @@
+.cabecalho{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    color: #000;
+    font-size: 12px;
+    padding: 1em;
+    text-transform: uppercase;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.724);
+    
+
+}
+
+.cabecalho img{
+    width: 70px;
+    height: 70px;
+}
+.logo{
+    display: flex;
+    justify-content: left;
+    margin : 0px 0px;
+    
+}
+
